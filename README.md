@@ -4,7 +4,7 @@ Hi 👋, I'm **Omar Walid**
 
 💻 Backend Developer passionate about building scalable APIs, robust server-side applications, and clean software architectures.
 
-🔭 Currently working on the [**Payroll-Engine-HR-Core-System**]([https://your-project-link.com](https://github.com/omar-elhusseny/Payroll-Engine-HR-Core-System)), developing efficient, secure, and maintainable backend solutions for enterprise applications.
+🔭 Currently working on the [**Payroll-Engine-HR-Core-System**](https://github.com/Payroll-Engine-HR-Core-System), developing efficient, secure, and maintainable backend solutions for enterprise applications.
 
 🌱 Currently learning **C#**, **.NET Framework**, and **ASP.NET Core** to strengthen my backend development skills and build modern enterprise-level systems.
 
